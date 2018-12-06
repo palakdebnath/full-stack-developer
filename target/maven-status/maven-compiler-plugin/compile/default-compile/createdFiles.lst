@@ -1,0 +1,3 @@
+com\hcl\hackathon\fullstack\domain\Product.class
+com\hcl\hackathon\fullstack\controller\ProductCotroller.class
+com\hcl\hackathon\fullstack\FullStackApplication.class
